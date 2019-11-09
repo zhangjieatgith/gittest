@@ -3,3 +3,4 @@ add second line
 add a third line
 add a fouth line
 add a sixth line
+welcome to study git
